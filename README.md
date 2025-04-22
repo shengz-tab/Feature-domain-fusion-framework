@@ -1,3 +1,3 @@
 # Feature-domain-fusion-framework
 ## Note
-Currently, only a sample of the dataset is available. The full implementation and complete dataset will be released upon the acceptance of the paper. Given the large size of the dataset, it will be distributed via an alternative access method.
+Currently, only the protein stability benchmark dataset is provided for demonstration. Once the paper is officially accepted, we will open the full code of the model and the complete dataset. Due to the large volume of data, the complete dataset will be made available to researchers through additional channels.
